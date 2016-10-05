@@ -1,0 +1,24 @@
+{
+  "name": "gltf-merge-and-minifie",
+  "version": "1.0.0",
+  "description": "minifies and merges gltf",
+  "main": "mergGltf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-hilton/gltf-merge-and-minifie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-hilton/gltf-merge-and-minifie/issues"
+  },
+  "homepage": "https://github.com/daniel-hilton/gltf-merge-and-minifie#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cesium": "^1.26.0",
+    "fs-promise": "^0.5.0"
+  }
+}
